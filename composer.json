@@ -43,7 +43,15 @@
     "johnpbloch/wordpress": "4.9.0",
     "oscarotero/env": "^1.1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "koodimonni-language/it_IT": "*"
+    "koodimonni-language/it_IT": "*",
+    "wpackagist-plugin/wp-retina-2x":"*",
+    "wpackagist-plugin/mailchimp-for-wp":"*",
+    "wpackagist-plugin/user-avatar":"*",
+    "wpackagist-plugin/google-analytics-for-wordpress":"*",
+    "wpackagist-plugin/wordpress-seo":"*",
+    "wpackagist-plugin/simple-share-buttons-adder":"*",
+    "wpackagist-plugin/contact-form-7":"*",
+    "wpackagist-plugin/cookie-law-info":"*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
