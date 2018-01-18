@@ -23,3 +23,4 @@ set :deploy_to, -> { "/srv/users/serverpilot/apps/#{fetch(:application)}/deploy"
 #  }
 
 fetch(:default_env).merge!(wp_env: :staging)
+set :keep_releases, 1
